@@ -1,1 +1,1 @@
-# Music-Player
+Since the time when google play was removed from playstore , there was no such good app available to download and store offline music . I myself  tried a lot to search and find a app that was good enough to do the same but there were no such apps available . The other apps available were either paid or had those shit ads playing between the music . As a result i decided to make my own music player which will play all my fav song without any ads . Now enjoy the Music :)
